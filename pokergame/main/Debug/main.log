@@ -1,0 +1,28 @@
+﻿  main.cpp
+e:\学习\大学计算机\乌龟\乌龟\抽乌龟\main\main.cpp(91): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: 参见“_sleep”的声明
+e:\学习\大学计算机\乌龟\乌龟\抽乌龟\main\main.cpp(120): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: 参见“_sleep”的声明
+e:\学习\大学计算机\乌龟\乌龟\抽乌龟\main\main.cpp(125): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: 参见“_sleep”的声明
+e:\学习\大学计算机\乌龟\乌龟\抽乌龟\main\main.cpp(175): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: 参见“_sleep”的声明
+e:\学习\大学计算机\乌龟\乌龟\抽乌龟\main\main.cpp(207): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: 参见“_sleep”的声明
+e:\学习\大学计算机\乌龟\乌龟\抽乌龟\main\main.cpp(212): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: 参见“_sleep”的声明
+e:\学习\大学计算机\乌龟\乌龟\抽乌龟\main\main.cpp(227): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: 参见“_sleep”的声明
+e:\学习\大学计算机\乌龟\乌龟\抽乌龟\main\main.cpp(262): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: 参见“_sleep”的声明
+e:\学习\大学计算机\乌龟\乌龟\抽乌龟\main\main.cpp(267): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: 参见“_sleep”的声明
+e:\学习\大学计算机\乌龟\乌龟\抽乌龟\main\main.cpp(305): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: 参见“_sleep”的声明
+e:\学习\大学计算机\乌龟\乌龟\抽乌龟\main\main.cpp(326): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: 参见“_sleep”的声明
+e:\学习\大学计算机\乌龟\乌龟\抽乌龟\main\main.cpp(355): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: 参见“_sleep”的声明
+e:\学习\大学计算机\乌龟\乌龟\抽乌龟\main\显示牌.cpp(76): warning C4715: “color”: 不是所有的控件路径都返回值
+  main.vcxproj -> E:\学习\大学计算机\乌龟\乌龟\抽乌龟\Debug\main.exe
+  main.vcxproj -> E:\学习\大学计算机\乌龟\乌龟\抽乌龟\Debug\main.pdb (Full PDB)

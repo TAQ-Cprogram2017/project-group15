@@ -1,0 +1,14 @@
+C:\Users\yzyang\Desktop\抽乌龟\bin\Debug\纸牌.exe
+C:\Users\yzyang\Desktop\抽乌龟\bin\Debug\纸牌.pdb
+C:\Users\yzyang\Desktop\抽乌龟\obj\Debug\纸牌.csprojResolveAssemblyReference.cache
+C:\Users\yzyang\Desktop\抽乌龟\obj\Debug\纸牌.Form1.resources
+C:\Users\yzyang\Desktop\抽乌龟\obj\Debug\纸牌.csproj.GenerateResource.Cache
+C:\Users\yzyang\Desktop\抽乌龟\obj\Debug\纸牌.exe
+C:\Users\yzyang\Desktop\抽乌龟\obj\Debug\纸牌.pdb
+E:\学习\大学计算机\抽乌龟改\抽乌龟\obj\Debug\纸牌.exe
+E:\学习\大学计算机\抽乌龟改\抽乌龟\obj\Debug\纸牌.pdb
+E:\学习\大学计算机\抽乌龟改\抽乌龟\bin\Debug\纸牌.exe
+E:\学习\大学计算机\抽乌龟改\抽乌龟\bin\Debug\纸牌.pdb
+E:\学习\大学计算机\抽乌龟改\抽乌龟\obj\Debug\纸牌.csprojResolveAssemblyReference.cache
+E:\学习\大学计算机\抽乌龟改\抽乌龟\obj\Debug\纸牌.Form1.resources
+E:\学习\大学计算机\抽乌龟改\抽乌龟\obj\Debug\纸牌.csproj.GenerateResource.Cache
